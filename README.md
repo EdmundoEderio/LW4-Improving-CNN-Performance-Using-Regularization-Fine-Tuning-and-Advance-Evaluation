@@ -168,6 +168,11 @@ The baseline model's Grad-CAM heatmap on the ALOE VERA test image showed some ac
 
 Explainability is critical in real-world AI deployments for several reasons. First, it builds **trust** — users and stakeholders are more likely to act on a model's recommendation if they can see the reasoning behind it. Second, it enables **debugging** — if a model focuses on irrelevant features (e.g., image background instead of the plant), developers can identify this and correct it through better data collection or architecture changes. Third, in high-stakes domains such as **medical plant identification**, an incorrect classification could lead to someone ingesting a toxic plant — explainability allows domain experts (e.g., botanists, doctors) to verify the model's decision before acting on it. Finally, explainability is increasingly required for **regulatory compliance** in AI systems used in healthcare, finance, and public safety.
 
-## Documentation
+## Project Links
+
+- **Google Colab Notebook:** [(https://colab.research.google.com/drive/13oyFRnEc-sO23kQ1kEBfkB7lRZszs-PL?usp=drive_link)]
+- **Google Drive Dataset:** [(https://drive.google.com/drive/folders/1SIHW-vZqoNLpI2QlnoGS8zfdx3pHi-Tm?usp=sharing)]
+- **Saved Model:** [(https://drive.google.com/file/d/1nKshCApoRDgHHxC5GZI9oFEO--AMpaIp/view?usp=drive_link)]
+
 
 
